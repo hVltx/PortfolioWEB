@@ -58,9 +58,9 @@ const projects = [
   },
   {
     thumbnail: 'images/3js.png',
-    name: 'Projet Threejs',
+    name: 'Threejs Project',
     description: [
-      "Ce projet est une démonstration interactive en 3D de mon projet de crowdfunding Stick'nTag. L'objectif principal est d'illustrer les possibilités d'utilisation de Stick'nTag dans un environnement domestique simulé.",
+      "This project is an interactive 3D demonstration of my crowdfunding project, Stick'nTag. The primary objective is to showcase the potential uses of Stick'nTag in a simulated home environment.",
     ],
     stack: ['ThreeJS', 'JavaScript'],
     sourceCode: 'https://github.com/hVltx/Stick-nTag-3D-scene.git',
