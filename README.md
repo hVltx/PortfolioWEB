@@ -1,33 +1,4 @@
-<div align="center">
-  <h1>Leanfolio</h1>
-  <img src="docs/preview.png" alt="Preview" width="100%">
-  <br>
-  <br>
-  <p>A minimalist portfolio template for developers built with Next.js</p>
-  <p><a href="https://leanfolio.vercel.app/">Live Demo</a></p>
-  <img src="https://vercelbadge.vercel.app/api/magic-ike/leanfolio" alt="Vercel deployment status">
-  <br>
-</div>
-
-## Table of Contents
-
-
-- [Getting Started](#getting-started)
-- [License](#license)
-
-## Differences between Leanfolio and Cleanfolio
-
-This repo was forked from the Cleanfolio repo which you can find [here](https://github.com/rajshekhar26/cleanfolio). The following are the differences between the 2 repos:
-
-- Leanfolio uses the [Next.js](https://nextjs.org/) framework which means that you can expand your portfolio to take advantage of features such as [SSR](https://nextjs.org/docs/basic-features/data-fetching/get-server-side-props) and [API Routes](https://nextjs.org/docs/api-routes/introduction).
-
-- Leanfolio integrates with Google Analytics by default to let you **optionally** track visitor activity on your portfolio.
-
-- Bonus:
-  - Improved user interface
-  - Improved README documentation
-
-## Getting Started
+Template from: https://github.com/magic-ike/leanfolio.git
 
 ### Running Locally
 
@@ -72,7 +43,3 @@ yarn dev
 - Click **Deploy**.
 
 - If everything went smoothly, your portfolio should now be live. Congrats! 🎉
-
-## License
-
-[MIT](LICENSE)
